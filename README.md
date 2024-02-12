@@ -51,4 +51,4 @@ torch.use_deterministic_algorithms(True)
 </pre>
 These generated codes should be embedded in the rein.py or reinforcement_q_learning.py. The following figure shows the reproducible result. When changing seed numbers, the different reproducible result can be obtained.
 
-<img src='https://github.com/ytakefuji/fixreprod/raw/main/result.png' width=540 hight=480>
+<img src='https://github.com/y-takefuji/fixreprod/raw/main/result.png' width=540 hight=480>
